@@ -1,0 +1,348 @@
+#EXTM3U
+
+#EXTINF:1,--- | by Kabelvision | ----
+https://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
+#EXTINF:1,GTV SYUKOI
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:1,MNCTV SYUKOI
+https://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF:1,INEWSTV SYUKOI
+https://cdn-livetv2.metube.id/hls/inewstv_480/index.m3u8
+#EXTINF:1,INDOSIAR SYUKOI
+https://cdn-livetv1.metube.id/hls/indosiar_480/index.m3u8
+#EXTINF:1,TRANTV SYUKOI
+https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
+#EXTINF:1,TRAN 7 SYUKOI
+https://cdn-livetv1.metube.id/hls/trans7_480/index.m3u8
+#EXTINF:1,METROTV SYUKOI
+https://cdn-livetv1.metube.id/hls/metrotv_480/index.m3u8
+#EXTINF:1,ANTV SYUKOI
+https://cdn-livetv1.metube.id/hls/antv_480/index.m3u8
+#EXTINF:1,TVOON SYUKOI
+https://cdn-livetv1.metube.id/hls/tvone_480/index.m3u8
+#EXTINF:1,MNC NEWS SYUKOI
+https://cdn-livetv1.metube.id/hls/mncnews_480/index.m3u8
+#EXTINF:1,TVRI SYUKOI
+https://cdn-livetv2.metube.id/hls/tvri_480/index.m3u8
+#EXTINF:1,useesport syukoi
+http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+
+#EXTINF:1, ULTHD | beIN SPORTS 1 4K UHD
+http://1.vip-src.com:8080/live/selahattin/candan/7605.ts
+http://1.vip-src.com:8080/live/selahattin/candan/6508.ts
+#EXTINF:1,Sony Espn HD
+http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/01.m3u8
+#EXTINF:1,Sony Ten 1
+http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
+#EXTINF:1,Sony ten 3 SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
+#EXTINF:1,SONY ESPN
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8
+#EXTINF:1,SONY TEN1 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
+#EXTINF:1,SONY TEN2 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:1,Animal Planet hindi
+http://139.59.74.143/j/Animal_Planet_Hindi.m3u8
+#EXTINF:1,History Hd hindi
+http://139.59.74.143/j/History_18_Hindi.m3u8
+#EXTINF:1,TLC Hindi
+http://139.59.74.143/j/TLC_Hindi.m3u8
+#EXTINF:1,??? ??
+http://194.143.150.213:8080/udp/239.195.32.18:1234
+#EXTINF:1,?????? 24
+http://194.143.150.213:8080/udp/239.195.32.4:1234
+#EXTINF:1,?????? ?
+http://194.143.150.213:8080/udp/239.195.32.5:1234
+#EXTINF:1,BBC Earth Hindi
+http://139.59.74.143/j/Sony_BBC_Earth_HD.m3u8
+#EXTINF:1,Discovery
+http://139.59.74.143/j/Discovery.m3u8
+#EXTINF:1,Discovery HD World
+http://139.59.74.143/j/Discovery_HD_World.m3u8
+#EXTINF:1,Discovery Kids 1
+http://139.59.74.143/j/Discovery_Kids_1.m3u8
+#EXTINF:1,Discovery Science
+http://139.59.74.143/j/Discovery_Science.m3u8
+#EXTINF:1,Discovery Turbo
+http://139.59.74.143/j/Discovery_Turbo.m3u8
+#EXTINF:1,Jio Cricket English
+http://139.59.74.143/j/Jio_Cricket_English.m3u8
+#EXTINF:1,Sony Six (Hindi)
+http://139.59.74.143/j/Sony_Six_SD.m3u8
+#EXTINF:1,TR: NAT GEO HD ENG
+http://217.182.173.184:8000/live/micha/micha/589.m3u8
+#EXTINF:1,TR: NAT GEO WILD HD ENG
+http://217.182.173.184:8000/live/micha/micha/588.m3u8
+#EXTINF:-1,Sony BBC Earth HD
+http://139.59.74.143/j/Sony_BBC_Earth_HD.m3u8
+#EXTINF:1,Sony MAX 2
+http://139.59.74.143/j/Sony_MAX2.m3u8
+#EXTINF:1,Sony Max HD
+http://139.59.74.143/j/Sony_Max_HD.m3u8
+#EXTINF:1,Sony Mix
+http://139.59.74.143/j/Sony_Mix.m3u8
+#EXTINF:1,Sony Pal
+http://139.59.74.143/j/Sony_Pal.m3u8
+#EXTINF:1,Sony Rox HD
+http://139.59.74.143/j/Sony_Rox_HD.m3u8
+#EXTINF:1,Star Sports HD 3
+http://139.59.74.143/j/Star_Sports_3.m3u8
+#EXTINF:1,Discovery
+http://139.59.74.143/j/Discovery.m3u8
+#EXTINF:1,Discovery HD World
+http://139.59.74.143/j/Discovery_HD_World.m3u8
+#EXTINF:1,Discovery Kids 1
+http://139.59.74.143/j/Discovery_Kids_1.m3u8
+#EXTINF:1,Discovery Science
+http://139.59.74.143/j/Discovery_Science.m3u8
+#EXTINF:1,Discovery Turbo
+http://139.59.74.143/j/Discovery_Turbo.m3u8
+#EXTINF:1,Sony ESPN
+http://139.59.74.143/j/Sony_ESPN_SD.m3u8
+#EXTINF:1,Sony ESPN HD
+http://139.59.74.143/j/Sony_ESPN_HD.m3u8
+#EXTINF:1,Sony Le PLEX HD
+http://139.59.74.143/j/Sony_Le_PLEX_HD.m3u8
+#EXTINF:1,Sony Pix HD
+http://139.59.74.143/j/Sony_Pix_HD.m3u8
+#EXTINF:1,Sony Six (Hindi)
+http://139.59.74.143/j/Sony_Six_SD.m3u8
+#EXTINF:1,Sony Six HD
+http://139.59.74.143/j/Six_HD.m3u8
+#EXTINF:1,Sony Ten 1
+http://139.59.74.143/j/Ten_1.m3u8
+#EXTINF:1,Sony Ten 1 HD
+http://139.59.74.143/j/Ten_HD.m3u8
+#EXTINF:1,Sony Ten 2
+http://139.59.74.143/j/Ten_2.m3u8
+#EXTINF:1,Sony Ten 2 HD
+http://139.59.74.143/j/Ten2_HD.m3u8
+#EXTINF:1,Sony Ten 3
+http://139.59.74.143/j/Ten_3.m3u8
+#EXTINF:1,Sony Ten 3 HD
+http://139.59.74.143/j/Ten3_HD.m3u8
+#EXTINF:1,Sony Ten Golf HD
+http://139.59.74.143/j/Ten_Golf_HD.m3u8
+#EXTINF:1,Star Sports HD 1
+http://139.59.74.143/j/Star_Sports_HD_1.m3u8
+#EXTINF:1,Star Sports HD 2
+http://139.59.74.143/j/Star_Sports_HD_2.m3u8
+#EXTINF:1,Star Sports Select HD 1
+http://139.59.74.143/j/Star_Sports_Select_HD_1.m3u8
+#EXTINF:1,Star Sports Select HD 2
+http://139.59.74.143/j/Star_Sports_Select_HD_2.m3u8
+
+#EXTINF:1,Sony Espn HD
+http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/01.m3u8
+#EXTINF:1,Sony Ten 1
+http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
+#EXTINF:1,Sony ten 3 SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
+#EXTINF:1,SONY ESPN
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8
+#EXTINF:1,SONY TEN1 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
+#EXTINF:1,SONY TEN2 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+
+#EXTINF:1,FX HD
+http://1.vip-src.com:8080/live/selahattin/candan/10106.ts
+#EXTINF:1,beIN BOX OFFICE 1 HD
+http://1.vip-src.com:8080/live/selahattin/candan/7.ts
+#EXTINF:1,beIN BOX OFFICE 2 HD
+http://1.vip-src.com:8080/live/selahattin/candan/8.ts
+#EXTINF:1,beIN BOX OFFICE 3 HD
+http://1.vip-src.com:8080/live/selahattin/candan/9.ts
+#EXTINF:1,beIN MOVIES PREMIERE HD
+http://1.vip-src.com:8080/live/selahattin/candan/2058.ts
+#EXTINF:1,beIN MOVIES PREMIERE 2 HD
+http://1.vip-src.com:8080/live/selahattin/candan/2057.ts
+#EXTINF:1,beIN MOVIES ACTION HD
+http://1.vip-src.com:8080/live/selahattin/candan/2056.ts
+#EXTINF:1,beIN MOVIES ACTION 2 HD
+http://1.vip-src.com:8080/live/selahattin/candan/6089.ts
+
+#EXTINF:1,A HBO HD
+http://62.210.139.246:25461/live/sp/sp/426.ts
+#EXTINF:1,A HBO
+http://62.210.139.246:25461/live/sp/sp/189.ts
+#EXTINF:1,?? ???
+http://62.210.139.246:25461/live/sp/sp/460.ts
+#EXTINF:1,Animal Planet HD
+http://62.210.139.246:25461/live/sp/sp/691.ts
+#EXTINF:1,Animal Planet Europe
+http://62.210.139.246:25461/live/sp/sp/769.ts
+#EXTINF:1,--sport
+http://1.vip-src.com:8080/live/selahattin/candan/6508.ts
+#EXTINF:1,beIN SPORTS HD 1
+http://1.vip-src.com:8080/live/selahattin/candan/2.ts
+#EXTINF:1,beIN SPORTS 1 HD 265.HVEC
+http://1.vip-src.com:8080/live/selahattin/candan/130.ts
+#EXTINF:1,beIN SPORTS SD 1
+http://1.vip-src.com:8080/live/selahattin/candan/7100.ts
+#EXTINF:1,beIN SPORTS HD 1 Mobile
+http://1.vip-src.com:8080/live/selahattin/candan/7042.ts
+#EXTINF:1,beIN SPORTS HD 1 1080i
+http://1.vip-src.com:8080/live/selahattin/candan/7101.ts
+#EXTINF:1,beIN SPORTS 1 4K UHD
+http://1.vip-src.com:8080/live/selahattin/candan/7605.ts
+#EXTINF:1,beIN SPORTS HD 1 720p
+http://1.vip-src.com:8080/live/selahattin/candan/7102.ts
+#EXTINF:1,beIN SPORTS SD 2
+http://1.vip-src.com:8080/live/selahattin/candan/8302.ts
+
+#EXTINF:1,UK: SKY CINEMA PREMIER HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1525.ts
+#EXTINF:1,Sky Drama & Romance HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/249.ts
+#EXTINF:1,Sky Cinema Select HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/248.ts
+#EXTINF:1,UK: Sky Family HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/255.ts
+#EXTINF:1,UK: Sky Cinema Sc-Fi & Horror HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/256.ts
+#EXTINF:1,UK: Sky CInema HERO HD (local)
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/260.ts
+#EXTINF:1,UK: Sky Cinema Hits HD Local
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/259.ts
+#EXTINF:1,UK: Sky Cinema Disney HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/258.ts
+#EXTINF:1,UK: Sky Cinema Comedy HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/253.ts
+#EXTINF:1,UK: Sky Cinema Action HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/254.ts
+#EXTINF:1,Sony Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/217.ts
+#EXTINF:1,Sky Thriller Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/214.ts
+#EXTINF:1,True Movies 2 SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/219.ts
+#EXTINF:1,True Movies 1 SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/218.ts
+#EXTINF:1,Sky Action Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/213.ts
+#EXTINF:1,Sky Select Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/215.ts
+#EXTINF:1,Sky ScFiHorror Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/216.ts
+#EXTINF:1,Sky Premiere Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/207.ts
+#EXTINF:1,Sky Movies Drama & Romance SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/211.ts
+#EXTINF:1,Sky Movies Disney SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/208.ts
+#EXTINF:1,Sky Hits Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/209.ts
+#EXTINF:1,Sky Family Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/210.ts
+#EXTINF:1,Sky Comedy Movies SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/212.ts
+#EXTINF:1,Sky Cinema Premier + 1
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1871.ts
+#EXTINF:1,Film 4
+#EXTINF:1,UK: Disney Junior
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/84.ts
+#EXTINF:1,Cartoonito
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/90.ts
+#EXTINF:1,Disney Channel
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/85.ts
+#EXTINF:1,Discovery History
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/18.ts
+#EXTINF:1,Disney XD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/86.ts
+#EXTINF:1,Cartoon Network UK
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/91.ts
+#EXTINF:1,Baby TV
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/92.ts
+
+#EXTINF:1,SKY SPORTS Main Event HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/47.ts
+#EXTINF:1,SKY SPORTS Premier Leauge HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/55.ts
+#EXTINF:1,SKY SPORTS Football HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1801.ts
+#EXTINF:1,SKY SPORTS Cricket HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/49.ts
+#EXTINF:1,SKY SPORTS The Open HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/53.ts
+#EXTINF:1,Sky Sports F1 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/57.ts
+#EXTINF:1,SKY SPORTS Action HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/51.ts
+#EXTINF:1,SKY SPORTS Arena HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1629.ts
+#EXTINF:1,Sky Sports News HQ HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/264.ts
+#EXTINF:1,Sky Sports Mix HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/247.ts
+#EXTINF:1,Sky Sports Main Event SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/48.ts
+#EXTINF:1,Sky Sports Premier Leauge SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/56.ts
+#EXTINF:1,SKY SPORTS Football HD (2)
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1873.ts
+#EXTINF:1,Sky Sports Cricket SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/50.ts
+#EXTINF:1,Sky Sports The Open SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/54.ts
+#EXTINF:1,Sky Sports F1 SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/64.ts
+#EXTINF:1,Sky Sports Action SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/52.ts
+#EXTINF:1,Sky Sports Arena HD (LOCAL)
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1872.ts
+#EXTINF:1,Sky Sports News HQ
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1614.ts
+#EXTINF:1,Sky Sports Mix SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/222.ts
+#EXTINF:1,UK: British Eurosport 1 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/59.ts
+#EXTINF:1,UK: British EuroSports 2
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/58.ts
+#EXTINF:1,BT Sport 1HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/44.ts
+#EXTINF:1,Bt Sport 2 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/45.ts
+#EXTINF:1,BT Sport 3 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/46.ts
+#EXTINF:1,UK: BT SPORT 1 SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/511.ts
+#EXTINF:1,UK: BT SPORT 2 SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/512.ts
+#EXTINF:1,UK: BT SPORT ESPN SD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/510.ts
+#EXTINF:1,At The Races
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/41.ts
+#EXTINF:1,Racing Uk
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/42.ts
+#EXTINF:1,UK: BOX NATION HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1544.ts
+#EXTINF:1,UK : Premier Sports HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/61.ts
+#EXTINF:1,Setanta Ireland HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/63.ts
+#EXTINF:1,VIP: Setanta HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/60.ts
+#EXTINF:1,UK: EIR SPORT 1
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1537.ts
+#EXTINF:1,UK: EIR SPORT 2
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1538.ts
+#EXTINF:1,OSN Sports 1 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1521.ts
+#EXTINF:1,OSN Sports 2 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1522.ts
+#EXTINF:1,OSN Sports 3 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1523.ts
+#EXTINF:1,OSN Sports 4 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/1524.ts
+#EXTINF:1,TSN 1 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/223.ts
+#EXTINF:1,TSN 2 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/224.ts
+#EXTINF:1,TSN 3 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/225.ts
+#EXTINF:1,TSN 4 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/226.ts
+#EXTINF:1,TSN 5 HD
+http://iptv.satplex.co.uk:8080/live/VHFv8aO61x/aJiqmbBBcT/227.ts
